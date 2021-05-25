@@ -1,7 +1,7 @@
 #!/bin/python3
 import random
 
-chars = 'abcdefghijklmnopqrstuvwxyz!@#$%^&*2'20
+chars = 'abcdefghijklmnopqrstuvwxyz123456789!@#$%^&*'
 
 length = input('password length?')
 length = int(length)
